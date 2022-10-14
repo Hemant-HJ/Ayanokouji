@@ -1,0 +1,7 @@
+pymongo[srv]
+discord.py
+aiohttp
+pillow
+dnspython
+asyncpg
+jishaku
